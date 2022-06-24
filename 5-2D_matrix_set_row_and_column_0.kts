@@ -15,6 +15,8 @@
 
  */
 
+// [UNDERSTANDING IN PROGRESS] -- REVIEW AFTER
+
 class MatrixZeros {
 
     fun setZeros(matrix: Array<IntArray>): Unit {

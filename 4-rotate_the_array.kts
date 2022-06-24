@@ -7,7 +7,7 @@
     Output: [3,4,5,6,7,1,2]
  */
 
-// [UNDERSTADING IN PROGRES] -- REVIEW AFTER 
+// [UNDERSTANDING IN PROGRESS] -- REVIEW AFTER
 
 fun IntArray.leftShift(k: Int): IntArray {
     val shiftedArray = this.copyOf()
